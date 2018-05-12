@@ -1,0 +1,40 @@
+_repo: John-Greenleaf-WhittierHis-Life-Genius-and-Writings_37191
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Smith, Samuel Francis
+    alias: Smith, S. F. (Samuel Francis)
+    birthdate: 1808
+    deathdate: 1895
+    gutenberg_agent_id: '43781'
+    url: http://www.gutenberg.org/2009/agents/43781
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kennedy, William Sloane
+    aliases:
+    - Kennedy, W. S. (William Sloane)
+    - Kennedy, W. Sloane
+    birthdate: 1850
+    deathdate: 1929
+    gutenberg_agent_id: '38693'
+    url: http://www.gutenberg.org/2009/agents/38693
+description: ''
+gutenberg_issued: '2011-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37191'
+  lccn: 07022877
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Whittier, John Greenleaf, 1807-1892'
+- !lcsh 'Poets, American -- 19th century -- Biography'
+- !lcc 'PS'
+- !lcsh 'Abolitionists -- United States -- Biography'
+title: 'John Greenleaf Whittier: His Life, Genius, and Writings'
+url: http://www.gutenberg.org/ebooks/37191

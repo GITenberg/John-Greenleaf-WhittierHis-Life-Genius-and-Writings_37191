@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '38693'
     url: http://www.gutenberg.org/2009/agents/38693
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37191#John-Greenleaf-WhittierHis-Life-Genius-and-Writings
 gutenberg_issued: '2011-08-24'
 gutenberg_type: Text
 identifiers:
